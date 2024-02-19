@@ -1,0 +1,76 @@
+--------------- Zadatak 1 ---------------
+
+Napravite rekurzivnu funkciju 'factorial' za računanje faktorijela pozitivnog broja n.
+
+--------------- Zadatak 2 ---------------
+
+Napravite rekurzivnu funkciju 'sumOfSquares' za računanje sume kvadrata od 1 do x.
+
+--------------- Zadatak 3 ---------------
+
+Napravite rekurzivnu funkciju 'sumOfSquaresBetween' za računanje sume kvadrata od m
+do n.
+
+--------------- Zadatak 4 ---------------
+
+Napravite rekurzivnu funkciju ‘nthFibonacci' za računanje n - tog Fibonacci broja.
+
+--------------- Zadatak 5 ---------------
+
+Napišite rekurzivnu funkciju 'sumOdd' koja izračunava sumu neparnih brojeva između m i n.
+
+
+--------------- Zadatak 6 ---------------
+
+Napišite rekurzivnu funkciju 'sumSpec' koja izračunava sumu brojeva između m i n, koji su
+djeljivi sa 3 i nedjeljivi sa 7.
+
+--------------- Zadatak 7 ---------------
+
+Napravite rekurzivnu funkciju 'sumUserInputs' koja će računati sumu brojeva koje je
+korisnik unio. Rekurzivna funkcija treba od korisnika zahtijevati unos brojeva sve dok
+korisnik ne unese negativan broj.
+
+--------------- Zadatak 8 ---------------
+
+Napravite rekurzivnu funkciju 'maxNumber' koja će zahtijevati unos pozitivnih brojeva od
+korisnika sve dok korisnik ne unese negativan broj ili broj 0. Povratna vrijednost iz funkcije
+treba da bude najveći uneseni broj.
+
+--------------- Zadatak 9 ---------------
+
+Napravite rekurzivnu funkciju 'printTextInReverse' koja korisniku omogućava da unosi
+pojedinačne znakove. Unos se ponavlja sve dokle god korisnik ne unese tačku (.). Nakon
+unosa, program treba obrnutim redoslijedom ispisati sve unesene znakove (izuzev tačke).
+
+--------------- Zadatak 10 ---------------
+
+Napravite rekurzivnu funkciju 'printLettersBetween', koja treba da ispiše sva velika slova koja
+se nalaze između dva proslijeđena velika slova.
+
+--------------- Zadatak 11 ---------------
+
+Napravite rekurzivnu funkciju 'printLettersBetweenInReverse', koja treba da ispiše sva velika
+slova koja se nalaze između dva proslijeđena velika slova (ali u obratnom redoslijedu).
+
+--------------- Zadatak 12 ---------------
+
+Napišite program koji će omogućiti kreiranje 1D niza proizvoljne veličine, te uz pomoć
+rekurzivnih funkcija omogućiti:
+ -> unos elemenata
+ -> ispis elemenata
+ -> izračunati sumu svih elemenata niza
+ -> sumu pozitivnih elemenata niza
+ -> sumu elemenata niza s parnim indeksom
+
+--------------- Zadatak 13 ---------------
+
+Napišite rekurzivnu funkciju 'countDigits', koja vraća broj cifara za dati broj.
+
+--------------- Zadatak 14 ---------------
+
+Napišite rekurzivnu funkciju 'sumOfDigits', koja vraća broj zbir cifara datog broja.
+
+--------------- Zadatak 15 ---------------
+
+Napišite rekurzivnu funkciju 'isPrime', koja provjerava da li je dati broj prost.
