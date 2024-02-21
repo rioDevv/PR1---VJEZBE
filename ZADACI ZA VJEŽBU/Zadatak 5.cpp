@@ -2,13 +2,6 @@
 #include<iomanip>
 using namespace std;
 
-/*
-	Napisati program za sabiranje matrica proizvoljnih dimenzija.
-	Neka su date dvije matrice A i B, koje je potrebno popuniti slučajnim vrijednostima u opsegu [1-5]
-	Formirati matricu C kao zbir matrica A i B:
-	C[i,j] = A[i,j] + B[i,j]
-*/
-
 int getRandomValues(int from, int to) {
 	return rand() % (to - from + 1) + from;
 }
