@@ -2,14 +2,6 @@
 #include<iomanip>
 using namespace std;
 
-/*
-	Neka je data matrica M proizvoljnih dimenzija koje određuje korisnik. 
-	Popuniti matricu M slučajnim vrijednostima u opsegu [6-10]
-	Napisati dvije funkcije:
-	-> getAveragesByRow [funkcija koja treba da vrati prosjeke redova]
-	-> getAveragesByColumn [funkcija koja treba da vrati prosjeke kolona
-*/
-
 int getRandomValues(int from, int to) {
 	return rand() % (to - from + 1) + from;
 }
